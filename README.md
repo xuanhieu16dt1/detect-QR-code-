@@ -1,4 +1,4 @@
-# QRCODE_NEW
+# QRCODE
 Install library :
 
 pip3 install -r requirements.txt
