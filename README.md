@@ -1,2 +1,12 @@
-# detect-QR-code
-# Detect QR-code for Autonomous Mobile Robot to go charge station 
+# QRCODE_NEW
+Install library :
+
+pip3 install -r requirements.txt
+
+Qrcode detect: 
+
+python3 qrcode_detect.py
+
+Run to qrcode:
+
+python3 run_to_qrcode.py
